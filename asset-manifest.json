@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aula_github_actions/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/aula_github_actions/static/js/main.96f63843.chunk.js",
+    "main.js.map": "/aula_github_actions/static/js/main.96f63843.chunk.js.map",
+    "runtime-main.js": "/aula_github_actions/static/js/runtime-main.47e7161f.js",
+    "runtime-main.js.map": "/aula_github_actions/static/js/runtime-main.47e7161f.js.map",
+    "static/js/2.c327a5f8.chunk.js": "/aula_github_actions/static/js/2.c327a5f8.chunk.js",
+    "static/js/2.c327a5f8.chunk.js.map": "/aula_github_actions/static/js/2.c327a5f8.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/aula_github_actions/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/aula_github_actions/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/aula_github_actions/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/aula_github_actions/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c327a5f8.chunk.js.LICENSE.txt": "/aula_github_actions/static/js/2.c327a5f8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aula_github_actions/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47e7161f.js",
+    "static/js/2.c327a5f8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.96f63843.chunk.js"
+  ]
+}
